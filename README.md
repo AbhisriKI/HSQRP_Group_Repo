@@ -1,5 +1,5 @@
 # HSQRP_Group_Repo
-Title:
-Names:
-Instructions:
-Hannah, Abhisri, Easton, Elliot
+Project Title: Quantum Eavesdropper Detection in BB84
+Project Description: 
+Names: Hannah, Abhisri, Easton, Elliot
+Instructions: 
