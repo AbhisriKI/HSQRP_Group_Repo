@@ -8,9 +8,11 @@ Member Names: Hannah, Abhisri, Easton, Elliot
 Instructions:
 
 Clone the repository
+
     git clone <URL> 
 
 Install dependencies
+
     pip install cirq
 
 Editor Used: VSCode
